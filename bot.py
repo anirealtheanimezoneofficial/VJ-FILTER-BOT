@@ -92,5 +92,4 @@ if __name__ == '__main__':
     try:
         loop.run_until_complete(AniReal_start())
     except KeyboardInterrupt:
-        logging.info('Service Stopped Bye 👋)
-                     
+        logging.info
